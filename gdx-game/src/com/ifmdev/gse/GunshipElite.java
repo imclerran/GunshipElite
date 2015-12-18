@@ -4,7 +4,7 @@ import com.badlogic.gdx.*;
 import com.badlogic.gdx.graphics.*;
 import com.badlogic.gdx.graphics.g2d.*;
 
-public class MyGdxGame implements ApplicationListener
+public class GunshipElite implements ApplicationListener
 {
 	Texture texture;
 	SpriteBatch batch;
